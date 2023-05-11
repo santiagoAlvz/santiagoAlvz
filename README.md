@@ -6,4 +6,4 @@ My name is **Santiago Álvarez**, I'm a soon to-be Computer Technology Engineer 
 
 You can also check [my blog](https://santiagoalvz.wordpress.com/) :)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=santiagoAlvz&count_private=true&line_height=20&show_icons=true&hide=contribs)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=santiagoAlvz&count_private=true&line_height=20&show_icons=true&hide=contribs) -->
