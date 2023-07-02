@@ -6,4 +6,4 @@ I'm a certified [Linux System Administrator](https://www.credly.com/badges/b2acd
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,linux,python,html,css,react,js,mysql,git,bash,matlab,unity,androidstudio)
 
-You can also check [my blog](https://santiagoalvz.wordpress.com/) :)
+You can also check [my blog](https://santiagoalvz.net/) :)
